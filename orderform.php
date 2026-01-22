@@ -1,4 +1,4 @@
-<?php include ( "inc/connect.inc.php" ); ?>
+<?php include ( "inc/supabase.php" ); ?>
 <?php 
 $mysqli=new mysqli($mysql_server,$mysql_username,$mysql_password,$mysql_db);
 if (isset($_REQUEST['poid'])) {
@@ -263,3 +263,4 @@ $quan = $_POST['quantity'];
 	</script>
 </body>
 </html>
+
