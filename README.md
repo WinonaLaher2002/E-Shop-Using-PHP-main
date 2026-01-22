@@ -50,8 +50,6 @@ This project focuses on understanding **PHP logic, database integration, and bas
 
 - **PHP**
 - **MySQL**
-- **HTML**
-- **CSS**
 - **JavaScript**
 - **Apache (XAMPP/WAMP)**
 
