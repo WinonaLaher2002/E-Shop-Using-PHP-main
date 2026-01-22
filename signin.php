@@ -1,4 +1,4 @@
-<?php include ( "inc/supabase.php" ); ?>
+<?php include ( "inc/connect.inc.php" ); ?>
 <?php
 ob_start();
 session_start();
@@ -232,4 +232,5 @@ $_POST['last_name'] = trim($_POST['last_name']);
 		 ?>
 	</body>
 </html>
+
 
