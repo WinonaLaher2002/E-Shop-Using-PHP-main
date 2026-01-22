@@ -1,4 +1,4 @@
-<?php include ( "inc/supabase.php" ); ?>
+<?php include ( "inc/connect.inc.php" ); ?>
 <?php 
 ob_start();
 $mysqli=new mysqli($mysql_server,$mysql_username,$mysql_password,$mysql_db);
@@ -141,3 +141,4 @@ $search_value = trim($_GET['keywords']);
 </body>
 
 </html>
+
