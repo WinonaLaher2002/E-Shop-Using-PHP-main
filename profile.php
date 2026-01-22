@@ -1,4 +1,4 @@
-<?php include ( "inc/supabase.php" ); ?>
+<?php include ( "inc/connect.inc.php" ); ?>
 <?php 
 
 ob_start();
@@ -169,3 +169,4 @@ $search_value = "";
 </body>
 
 </html>
+
