@@ -50,8 +50,9 @@ This project focuses on understanding **PHP logic, database integration, and bas
 
 - **PHP**
 - **MySQL**
+- **HTML**
+- **CSS**
 - **JavaScript**
-- **Apache (XAMPP/WAMP)**
 
 ---
 
@@ -113,7 +114,7 @@ To run this project locally:
     
     *   Place the project in your server root (e.g., htdocs/eshop)
         
-    *   Open in browser:http://localhost/eshop/
+    *   Open in browser:[http://localhost/eshop/](http://www.eshopfatimanianstechnocrats.42web.io/)
         
 
 🧪 Usage
