@@ -1,4 +1,4 @@
-# 🛍️ E-Shop Using PHP
+# 🛍️ E-Shop Fatimanians Technocrats
 
 A simple e-commerce web application built using **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**.  
 This project demonstrates how an online shopping system works using **core PHP** without frameworks — ideal for beginners learning backend development.
