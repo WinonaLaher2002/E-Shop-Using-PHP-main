@@ -1,4 +1,4 @@
-<?php include ( "../inc/supabase.php" ); ?>
+<?php include ( "../inc/connect.inc.php" ); ?>
 <?php 
 ob_start();
 $mysqli=new mysqli($mysql_server,$mysql_username,$mysql_password,$mysql_db);
@@ -77,3 +77,4 @@ else {
 </body>
 
 </html>
+
