@@ -1,4 +1,4 @@
-<?php include ( "inc/supabase.php" ); ?>
+<?php include ( "inc/connect.inc.php" ); ?>
 <?php 
 
 ob_start();
@@ -210,3 +210,4 @@ $npass1 = $_POST['npass1'];
 </body>
 
 </html>
+
