@@ -1,4 +1,4 @@
-<?php include ( "inc/connect.inc.php" ); ?>
+<?php include ( "inc/supabase.php" ); ?>
 <?php 
 ob_start();
 session_start();
@@ -132,4 +132,5 @@ else {
 			</div>			
 		</div>
 	</body>
+
 </html>
