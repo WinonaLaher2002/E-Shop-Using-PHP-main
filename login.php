@@ -1,4 +1,4 @@
-<?php include ( "inc/supabase.php" ); ?>
+<?php include ( "inc/connect.inc.php" ); ?>
 <?php session_start(); ?>
 <?php
 ob_start();
@@ -217,4 +217,5 @@ if(isset($_POST['activate'])){
 		</div>
 	</body>
 </html>
+
 
